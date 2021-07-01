@@ -45,10 +45,10 @@ function Home() {
             hoverable
             style={{ width: 300, margin: 6 }}
             cover={<img alt="example" style={{
-              maxHeight: '300px',
-              maxWidth: '300px',
-              height: 'auto',
-              width: 'auto',
+              // maxHeight: '300px',
+              // maxWidth: '300px',
+              height: '300px',
+              width: '300px',
               margin: 'auto'
             }} src={home.photos[0] || defaultHomeImage} />}
           >
