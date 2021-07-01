@@ -43,7 +43,7 @@ function Home() {
         return (
           <Card
             hoverable
-            style={{ width: 300, margin: 7 }}
+            style={{ width: 300, margin: 6 }}
             cover={<img alt="example" style={{
               maxHeight: '300px',
               maxWidth: '300px',
